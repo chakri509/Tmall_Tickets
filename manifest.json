@@ -12,5 +12,8 @@
       "js": ["maotai.js"],
 	  "run_at": "document_idle"
     }
+
+
+	  
   ]
 }
